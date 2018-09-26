@@ -166,6 +166,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
                  border-color:red;
                  border-radius: .2rem;
                  OUTLINE:NONE;
+				  border:none;
              }
          
              .form_code button{
@@ -186,13 +187,4 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 			 
 			 
 			 
-			 .form_code .post_code{
-                 width: 40%;
-                 display:block;
-                 margin-left: auto;
-                 margin-right: auto;
-                 padding: .6rem;
-                 border:none;
-                 border-radius: .2rem;
-                 OUTLINE:NONE;
-             }
+			
